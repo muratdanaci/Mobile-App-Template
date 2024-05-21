@@ -1,0 +1,4 @@
+﻿# MobileAppTemplate
+
+## License
+### MIT
